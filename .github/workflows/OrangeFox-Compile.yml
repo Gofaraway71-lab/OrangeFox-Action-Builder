@@ -16,7 +16,7 @@ on:
       DEVICE_TREE:
         description: 'OrangeFox Device Tree'
         required: true
-        default: 'https://github.com/Gofaraway71-lab/ofox_RMX2151_Rui2'
+        default: 'https://github.com/Gofaraway71-lab/twrp.3.7.1_rui2_RM6785'
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true

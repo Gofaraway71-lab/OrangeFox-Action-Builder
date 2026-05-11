@@ -1,4 +1,4 @@
-name: OrangeFox - Build
+name: OrangeFox - Build 6
 
 # Credits to:
 # https://github.com/TeamWin
@@ -20,7 +20,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
-        default: 'main'
+        default: 'main6'
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
